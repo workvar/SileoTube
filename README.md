@@ -19,35 +19,32 @@ SileoTube helps you reclaim your attention by letting you:
 - No logins, no trackers, no data collection. Just simplicity and focus.
 
 ## Key Features
-### ✅ Remove Distractions Automatically
+### Remove Distractions Automatically
 - Hide recommendation sections
 - Remove Shorts content from everywhere
 - Optionally hide comments, sidebars, and video suggestions
 - Focus on watching videos — not the “Up Next” temptations in the sidebar
 
-### ✅ Page-Specific Customization
+### Page-Specific Customization
 - Different focus modes for Homepage, Watch Page, Shorts, and Search Page
 - Automatically detects when you switch pages and applies your saved preferences
 - You decide what to block — selectively or entirely
 
-### ✅ Seamless Experience
+### Seamless Experience
 - Lightweight and efficient — loads instantly on YouTube
 - Automatically re-applies focus settings when you navigate or refresh
 - Designed for performance — no lag, no heavy scripts
 
-### ✅ Privacy First
+### Privacy First
 - Works entirely on your device
 - Doesn’t track, store, or share any browsing data
 - No external connections or analytics
-
-⸻
 
 ## 🧠 Ideal For
 - Students using YouTube for study and tutorials
 - Creators researching content ideas
 - Professionals learning or presenting
 - Anyone tired of YouTube’s constant temptation to “watch one more video”
-
 
 ## Privacy Policy
 Effective Date: October 2025
