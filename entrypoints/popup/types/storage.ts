@@ -1,4 +1,5 @@
 interface ExtensionSettingsProps {
+    extensionEnabled: boolean;
     pages: {
         homepage: boolean;
         shorts: boolean;
@@ -8,6 +9,7 @@ interface ExtensionSettingsProps {
         comments: boolean;
         sidebar: boolean;
         shortsRecommendations: boolean;
+        grayscaleThumbnails: boolean;
     };
 }
 
