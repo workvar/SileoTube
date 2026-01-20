@@ -72,3 +72,6 @@ This policy complies with the Chrome Web Store Developer Program Policies, ensur
 
 For more information, please visit our full privacy policy at:
 https://worvar.com/sileotube/privacy
+
+### Read the docs
+https://sileotube.superdocs.cloud/
